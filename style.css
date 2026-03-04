@@ -10,7 +10,7 @@ body {
 /* Style the header */
 header {
     height: 150px;
-    background-image: <img src="Lebron.jpg" alt="Lebron">
+    background-image: url(Lebron.jpg)
     background-size: cover;
     background-position: center;
     border-radius: 15px;
