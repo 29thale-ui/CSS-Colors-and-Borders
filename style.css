@@ -23,6 +23,6 @@ header h1 {
 }
 
 #pig {
-    color: darkred;
+    color: rgb(255, 0, 0);
     background-color:blue;
 }
