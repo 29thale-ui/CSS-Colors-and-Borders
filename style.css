@@ -26,3 +26,15 @@ header h1 {
     color: rgb(255, 0, 0);
     background-color:blue;
 }
+
+.blue {
+    background-color: #00c5c5;
+    color: #003366;
+    padding: 10px;
+}
+
+#green {
+    background-color: #009cb1;
+    color: #004d00;
+    padding: 10px;
+}
