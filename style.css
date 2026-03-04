@@ -38,3 +38,7 @@ header h1 {
     color: #004d00;
     padding: 10px;
 }
+
+#cow {
+    border: 5px dashed #00BFFF;
+}
