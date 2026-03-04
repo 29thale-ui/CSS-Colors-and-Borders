@@ -41,11 +41,11 @@ header h1 {
 
 #cow {
     border: 5px dashed #ff02b3;
-    color: rgb(52, 69, 165);
+    color: #32174D;
 }
 
 #duck {
     border-bottom: lime 10px solid;
-    color: rgb(52, 69, 165);
+    color: #32174D;
 }
 }
