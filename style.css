@@ -43,3 +43,8 @@ header h1 {
     border: 5px dashed #ff02b3;
     color: rgb(0, 12, 82);
 }
+
+#duck {
+    border-bottom: lime 10px solid;
+    color: rgb(0, 12, 82);
+}
