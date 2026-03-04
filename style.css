@@ -1,11 +1,10 @@
 h1 {
   text-decoration: underline;
 }
-/* Set the background color of the entire page */
 body {
-    background-color: #65d6be;   /* light gray (any light color works) */
-    width: 50%;                  /* page width set to 50% */
-    margin: 0 auto;              /* centers the page */
+    background-color: #65d6be;
+    width: 50%;
+    margin: 0 auto;
 }
 
 /* Style the header */
